@@ -6,7 +6,7 @@
 
 
 <div align="">
-<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="200" height="180"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="200" height="180"/>&nbsp;
   <a href="https://github.com/devrafasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrafasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafasouza&layout=compact&langs_count=7&theme=dracula"/>
