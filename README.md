@@ -1,12 +1,12 @@
 <h1>Olá, sou o Rafael! </h1>
-
-
 <p>Sou um programador front-end.</p>
 <p>Atualmente estou focado em desenvolvimento mobile, me especializando em React-Native.</p>
 <p>Também estudo NodeJS e pretendo me tornar um programador fullstack. </p>
 <br> </br>
 
+
 <div align="">
+<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="200" height="180"/>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/devrafasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrafasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafasouza&layout=compact&langs_count=7&theme=dracula"/>
@@ -33,10 +33,6 @@
 </div>
 
 <div> 
-
-<h1>Alguns dos meus certificados</h1>
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/64436420/177062147-a93ae0ba-59d9-4a91-aa0c-715bfbd2d25e.gif)
-
-
+  <h1>Alguns dos meus certificados</h1>
+  <img src="https://user-images.githubusercontent.com/64436420/177062147-a93ae0ba-59d9-4a91-aa0c-715bfbd2d25e.gif" width="100%" height="600"/>
 </div>
