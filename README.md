@@ -31,3 +31,12 @@
  
  
 </div>
+
+<div> 
+
+<h1>Alguns dos meus certificados</h1>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/64436420/177062147-a93ae0ba-59d9-4a91-aa0c-715bfbd2d25e.gif)
+
+
+</div>
