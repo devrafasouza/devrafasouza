@@ -4,9 +4,17 @@
 <p>Também estudo NodeJS e pretendo me tornar um programador fullstack. </p>
 <br> </br>
 
+<div style="display: inline_block">
+<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="195" height="180"/>
+<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="195" height="180"/>
+<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="195" height="180"/>
+
+<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="195" height="180"/>
+</div>
+<br> </br>
+
 
 <div align="">
-<img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="150" height="180"/>
   <a href="https://github.com/devrafasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrafasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafasouza&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,9 +26,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-  
-  
+  <img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="200" height="180"/>
 </div>
+
   
   ##
  
