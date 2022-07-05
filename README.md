@@ -26,7 +26,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-  <img src="https://user-images.githubusercontent.com/64436420/177062721-21bd1b80-aa82-4849-ba3d-9e7ad208db90.gif" width="200" height="180"/>
 </div>
 
   
